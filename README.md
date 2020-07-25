@@ -8,3 +8,4 @@ Script for DB is in resources folder.
 
 Testing was performed using ngrok. 
 
+![screenshot](telegram_bot.png)
